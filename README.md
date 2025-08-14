@@ -1,2 +1,2 @@
-# UAS-Pemograman-Perangkag-bergerak
+# UAS-Pemograman-Perangkat-bergerak
 Membuat aplikasi berbasis android
